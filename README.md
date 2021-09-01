@@ -1,6 +1,6 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
+[![Slam](https://pbs.twimg.com/profile_banners/1003909132796116992/1607060050/600x200)](https://t.me/request_ayush)
 
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
+owner of this repo :- [sathishsksk](https://github.com/sathishsksk)
 
 
 # all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
