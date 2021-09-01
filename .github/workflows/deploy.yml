@@ -41,4 +41,4 @@ jobs:
           HD_TOKEN_PICKLE_URL: ${{secrets.TOKEN_PICKLE_URL}}
           HD_VIEW_LINK: ${{secrets.VIEW_LINK}}
           HD_USE_SERVICE_ACCOUNTS: ${{secrets.USE_SERVICE_ACCOUNTS}}
-          HD_VIEW_LINK: ${{secrets.VIEW_LINK}}
+          HD_IMAGE_URL: ${{secrets.IMAGE_URL}}
