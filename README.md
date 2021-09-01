@@ -9,7 +9,7 @@ owner of this repo :- [sathishsksk](https://github.com/sathishsksk)
 
 
 
-contact me :- [AYUSH](https://t.me/request_ayush)
+contact me :- [sathishsksk](https://github.com/sathishsksk)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
