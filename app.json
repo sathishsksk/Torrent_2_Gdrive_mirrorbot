@@ -1,15 +1,15 @@
 {
     "name": "slam-mirrorbot",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+    "logo": "https://pbs.twimg.com/profile_banners/1003909132796116992/1607060050/600x200",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
-    "website": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
-    "success_url": "https://t.me/TORRNET_TO_GDRIVE",
+    "repository": "https://github.com/sathishsksk/Torrent_2_Gdrive_mirrorbot",
+    "website": "https://github.com/sathishsksk/Torrent_2_Gdrive_mirrorbot",
+    "success_url": "https://t.me/joinchat/r9zr0oZ0tJZjYTNl",
     "stack": "container",
     "env": {
       "ENV": {
