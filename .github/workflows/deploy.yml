@@ -18,7 +18,6 @@ jobs:
           region: "us"
         env:
           HD_AUTO_DELETE_MESSAGE_DURATION: ${{secrets.AUTO_DELETE_MESSAGE_DURATION}}
-          HD_BASE_URL_OF_BOT: ${{secrets.BASE_URL_OF_BOT}}
           HD_BOT_TOKEN: ${{secrets.BOT_TOKEN}}
           HD_DOWNLOAD_DIR: ${{secrets.DOWNLOAD_DIR}}
           HD_DOWNLOAD_STATUS_UPDATE_INTERVAL: ${{secrets.DOWNLOAD_STATUS_UPDATE_INTERVAL}}
